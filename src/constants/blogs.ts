@@ -200,4 +200,144 @@ export const blogs = [
       long: 'Explore how technological advancements have transformed motocross racing. From bike modifications to data-driven analysis, discover how innovation continues to push the boundaries and enhance the sport for riders and spectators alike.',
     },
   },
+  {
+    id: '11',
+    title: 'The Evolution of Motocross: From Origins to Modern Competitions',
+    cover:
+      'https://plus.unsplash.com/premium_photo-1663047696893-684fbe9910a5?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    author: {
+      name: 'Emma Collins',
+      picture: 'https://randomuser.me/api/portraits/women/82.jpg',
+    },
+    publishedAt: '2024-11-15',
+    categories: ['Motocross', 'History'],
+    rating: '4.7',
+    votes: '198',
+    readTimes: '412',
+    body: {
+      short:
+        'Trace the history of motocross, from its humble beginnings to the global sport it is today.',
+      long: 'Delve into the rich history of motocross, exploring its evolution from early scrambles to organized competitions. Uncover the milestones, technological advancements, and the impact of legendary riders that shaped motocross into the thrilling sport we know today.',
+    },
+  },
+  {
+    id: '12',
+    title: 'Motocross Gear Essentials: Choosing the Right Equipment for Riders',
+    cover:
+      'https://images.unsplash.com/photo-1575396565846-19fe83e261bf?q=80&w=1925&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    author: {
+      name: 'Ryan Johnson',
+      picture: 'https://randomuser.me/api/portraits/men/75.jpg',
+    },
+    publishedAt: '2025-02-20',
+    categories: ['Motocross', 'Gear'],
+    rating: '4.8',
+    votes: '315',
+    readTimes: '278',
+    body: {
+      short:
+        'Discover the essential gear necessary for motocross riders to maximize performance.',
+      long: 'Guide yourself through the world of motocross gear, understanding the importance of helmets, boots, protective wear, and other essentials. Learn how selecting the right gear can enhance both safety and performance, providing riders with the confidence to tackle challenging terrains.',
+    },
+  },
+  {
+    id: '13',
+    title: 'Motocross Safety: Riding Precautions Every Enthusiast Should Know',
+    cover:
+      'https://images.unsplash.com/photo-1589411454960-caab27c2d783?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    author: {
+      name: 'Olivia Martinez',
+      picture: 'https://randomuser.me/api/portraits/women/12.jpg',
+    },
+    publishedAt: '2025-06-10',
+    categories: ['Motocross', 'Safety'],
+    rating: '4.5',
+    votes: '173',
+    readTimes: '321',
+    body: {
+      short:
+        'Explore essential safety measures for riders to ensure a secure motocross experience.',
+      long: 'Prioritize safety in motocross with comprehensive tips addressing protective gear, riding techniques, and environmental awareness. This guide focuses on minimizing risks, understanding terrain challenges, and promoting safe riding practices for riders of all skill levels.',
+    },
+  },
+  {
+    id: '14',
+    title: 'Motocross: Building Endurance and Fitness for Rider Performance',
+    cover:
+      'https://images.unsplash.com/photo-1628105512271-a71a41f6d445?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    author: {
+      name: 'Nathan Adams',
+      picture: 'https://randomuser.me/api/portraits/men/35.jpg',
+    },
+    publishedAt: '2025-08-28',
+    categories: ['Motocross', 'Fitness'],
+    rating: '4.6',
+    votes: '224',
+    readTimes: '387',
+    body: {
+      short:
+        'Understand the importance of physical fitness in enhancing motocross performance.',
+      long: `Explore the relationship between physical fitness, endurance, and motocross riding. Discover training routines, dietary insights, and exercises tailored to improve a rider's stamina, strength, and overall fitness, contributing to enhanced performance on the track.`,
+    },
+  },
+  {
+    id: '15',
+    title: 'Motocross Championships: Unraveling the Most Iconic Races',
+    cover:
+      'https://images.unsplash.com/photo-1522922952185-2e35f28eec57?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    author: {
+      name: 'Sophie Turner',
+      picture: 'https://randomuser.me/api/portraits/women/91.jpg',
+    },
+    publishedAt: '2025-11-12',
+    categories: ['Motocross', 'Racing'],
+    rating: '4.9',
+    votes: '412',
+    readTimes: '532',
+    body: {
+      short:
+        'Delve into the exhilarating world of motocross championships and their moments.',
+      long: 'Embark on a journey through the most iconic motocross championships, reliving thrilling races, legendary rivalries, and pivotal moments that shaped the sport. From nail-biting finishes to historic tracks, explore the essence of motocross racing at its finest.',
+    },
+  },
+  {
+    id: '16',
+    title: 'Motocross Photography: Capturing the Thrill of the Track',
+    cover:
+      'https://images.unsplash.com/photo-1526454746448-b8bd1202e475?q=80&w=1886&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    author: {
+      name: 'Lucas Parker',
+      picture: 'https://randomuser.me/api/portraits/men/22.jpg',
+    },
+    publishedAt: '2026-03-19',
+    categories: ['Motocross', 'Photography'],
+    rating: '4.7',
+    votes: '276',
+    readTimes: '298',
+    body: {
+      short:
+        'Explore the art of capturing stunning motocross moments through the lens of a camera.',
+      long: 'Dive into the world of motocross photography, understanding the techniques, challenges, and artistry behind capturing dynamic and impactful images on the track. Learn about equipment choices, composition tips, and the thrill of freezing high-speed action through captivating photographs.',
+    },
+  },
+  {
+    id: '17',
+    title: `Motocross Trails: Discovering the World's Most Challenging Terrains`,
+    cover:
+      'https://plus.unsplash.com/premium_photo-1661963253228-5058700024ea?q=80&w=1886&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    author: {
+      name: 'Ava Peterson',
+      picture: 'https://randomuser.me/api/portraits/women/54.jpg',
+    },
+    publishedAt: '2026-06-25',
+    categories: ['Motocross', 'Trails'],
+    rating: '4.8',
+    votes: '327',
+    readTimes: '443',
+    body: {
+      short:
+        'Embark on a journey to explore the most challenging motocross trails worldwide.',
+      long: `Take a ride through some of the planet's most thrilling motocross trails, from rugged mountainsides to sandy deserts. Discover the unique challenges and breathtaking beauty each trail offers, attracting riders seeking adrenaline-pumping experiences and breathtaking vistas.`,
+    },
+  },
 ];
