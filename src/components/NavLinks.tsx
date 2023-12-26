@@ -14,7 +14,10 @@ const NavLinks = () => {
         {navLinks.map((link) => (
           <li
             key={link.route}
-            className={cn(link.route === pathname && 'text-orange')}
+            className={cn(
+              link.route === pathname && 'text-orange',
+              'transition hover:opacity-80'
+            )}
           >
             <Link href={link.route}>{link.label}</Link>
           </li>

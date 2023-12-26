@@ -22,7 +22,7 @@ const Hero = () => {
             width={1000}
             height={1000}
             priority
-            className='h-full w-full object-cover'
+            className='h-full w-full object-cover transition duration-300 group-hover:scale-125'
           />
           <Overlay />
           <div className='absolute bottom-0 left-0 right-0 top-0 z-[2] flex flex-col items-start justify-end gap-2 p-10 text-white'>
